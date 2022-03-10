@@ -1,0 +1,10 @@
+﻿2022-03-07T15:56:00.4968065+05:30;Thread#1;Info;Reading test run result from Json file "C:\Users\meera\AppData\Local\Temp\df8fdc68-f41f-4068-be0f-6bc80ff9dd67".
+2022-03-07T15:56:00.5128870+05:30;Thread#1;Info;Successfully read test run result from Json file "C:\Users\meera\AppData\Local\Temp\df8fdc68-f41f-4068-be0f-6bc80ff9dd67"
+2022-03-07T15:56:00.5138878+05:30;Thread#1;Info;Deserializing test run result
+2022-03-07T15:56:01.3856001+05:30;Thread#1;Info;Successfully deserialized test run result
+2022-03-07T15:56:01.3856001+05:30;Thread#1;Info;Loading test run result
+2022-03-07T15:56:01.4145889+05:30;Thread#1;Info;Successfully loaded test run result
+2022-03-07T15:56:01.4275900+05:30;Thread#1;Info;creating 1 report(s)
+2022-03-07T15:56:01.4275900+05:30;Thread#1;Info;generate Report using template ReportTemplate.cshtml
+2022-03-07T15:56:03.6843829+05:30;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

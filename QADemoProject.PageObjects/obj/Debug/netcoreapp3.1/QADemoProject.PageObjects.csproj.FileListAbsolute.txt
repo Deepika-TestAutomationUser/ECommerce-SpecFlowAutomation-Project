@@ -1,0 +1,15 @@
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\bin\Debug\netcoreapp3.1\QADemoProject.PageObjects.deps.json
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\bin\Debug\netcoreapp3.1\QADemoProject.PageObjects.dll
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\bin\Debug\netcoreapp3.1\QADemoProject.PageObjects.pdb
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\bin\Debug\netcoreapp3.1\QADemoProject.SupportClasses.dll
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\bin\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.dll
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\bin\Debug\netcoreapp3.1\QADemoProject.SupportClasses.pdb
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\bin\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.pdb
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\obj\Debug\netcoreapp3.1\QADemoProject.PageObjects.csproj.AssemblyReference.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\obj\Debug\netcoreapp3.1\QADemoProject.PageObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\obj\Debug\netcoreapp3.1\QADemoProject.PageObjects.AssemblyInfoInputs.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\obj\Debug\netcoreapp3.1\QADemoProject.PageObjects.AssemblyInfo.cs
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\obj\Debug\netcoreapp3.1\QADemoProject.PageObjects.csproj.CoreCompileInputs.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\obj\Debug\netcoreapp3.1\QADemoProject.PageObjects.csproj.CopyComplete
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\obj\Debug\netcoreapp3.1\QADemoProject.PageObjects.dll
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.PageObjects\obj\Debug\netcoreapp3.1\QADemoProject.PageObjects.pdb

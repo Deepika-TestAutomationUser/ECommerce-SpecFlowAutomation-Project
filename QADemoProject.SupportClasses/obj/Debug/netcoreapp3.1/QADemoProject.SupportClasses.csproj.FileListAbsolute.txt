@@ -1,0 +1,10 @@
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\bin\Debug\netcoreapp3.1\QADemoProject.SupportClasses.deps.json
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\bin\Debug\netcoreapp3.1\QADemoProject.SupportClasses.dll
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\bin\Debug\netcoreapp3.1\QADemoProject.SupportClasses.pdb
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\obj\Debug\netcoreapp3.1\QADemoProject.SupportClasses.csproj.AssemblyReference.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\obj\Debug\netcoreapp3.1\QADemoProject.SupportClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\obj\Debug\netcoreapp3.1\QADemoProject.SupportClasses.AssemblyInfoInputs.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\obj\Debug\netcoreapp3.1\QADemoProject.SupportClasses.AssemblyInfo.cs
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\obj\Debug\netcoreapp3.1\QADemoProject.SupportClasses.csproj.CoreCompileInputs.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\obj\Debug\netcoreapp3.1\QADemoProject.SupportClasses.dll
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.SupportClasses\obj\Debug\netcoreapp3.1\QADemoProject.SupportClasses.pdb

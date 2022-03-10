@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\meera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\meera\\.nuget\\packages"
+    ]
+  }
+}

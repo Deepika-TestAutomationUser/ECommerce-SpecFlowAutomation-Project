@@ -1,0 +1,10 @@
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\bin\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.deps.json
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\bin\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.dll
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\bin\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.pdb
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\obj\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.csproj.AssemblyReference.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\obj\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\obj\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.AssemblyInfoInputs.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\obj\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.AssemblyInfo.cs
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\obj\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.csproj.CoreCompileInputs.cache
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\obj\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.dll
+C:\Users\meera\source\repos\QADemoProject\QADemoProject.UI.SeleniumWrapper\obj\Debug\netcoreapp3.1\QADemoProject.UI.SeleniumWrapper.pdb
